@@ -1,0 +1,6 @@
+numero = int(input("informe um numero inteiro ")) 
+par = numero % 2
+if  par   == 0: 
+    print ("o numero e par") 
+else:
+    print("o numero e impar")
